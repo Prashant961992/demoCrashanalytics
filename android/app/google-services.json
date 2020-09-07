@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62866514519",
+    "firebase_url": "https://democrashanalytics-e2573.firebaseio.com",
+    "project_id": "democrashanalytics-e2573",
+    "storage_bucket": "democrashanalytics-e2573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62866514519:android:271c17ddbdc01b393bf912",
+        "android_client_info": {
+          "package_name": "com.example.demoCrashanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62866514519-t1jvcn5fdtcmtg61a4m15cri65aqu5nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMsGmNZOC0pfK9izoDSD44Ng_V4JEGEHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62866514519-t1jvcn5fdtcmtg61a4m15cri65aqu5nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62866514519-1ul5t2e8l5v91ss1m5gcb04cpd0h7d3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoCrashanalytics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

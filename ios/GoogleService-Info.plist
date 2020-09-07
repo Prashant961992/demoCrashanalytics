@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>62866514519-1ul5t2e8l5v91ss1m5gcb04cpd0h7d3b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.62866514519-1ul5t2e8l5v91ss1m5gcb04cpd0h7d3b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAofazNOphEtVJK0xCigndNQRcEL79yUo8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>62866514519</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.demoCrashanalytics</string>
+	<key>PROJECT_ID</key>
+	<string>democrashanalytics-e2573</string>
+	<key>STORAGE_BUCKET</key>
+	<string>democrashanalytics-e2573.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:62866514519:ios:841eb27b1c53d83c3bf912</string>
+	<key>DATABASE_URL</key>
+	<string>https://democrashanalytics-e2573.firebaseio.com</string>
+</dict>
+</plist>
